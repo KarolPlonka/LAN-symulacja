@@ -13,7 +13,7 @@ Przykładowy projekt lokalnej sieci komputerowej. Symulacja została stworzona p
 
 ### Routery centralne + RIPv2
 <p>
-<img align="left" src="images/image-001.png">
+<img align="left" src="images/image-001.png" style="display:block">
 Routery komunikują się między sobą w ramach czterech sieci.
 Każde połączenia dwóch routerów to osobna sieć, do której należy
 jeden z interfejsów routera. W tym przypadku routery połączone
