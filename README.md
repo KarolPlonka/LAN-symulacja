@@ -28,7 +28,7 @@ którymiś z podsieci, które mają się komunikować).
 
 
 ### Pojedynczy VLAN
-![Alt text](images/image-002.png)
+<img align="right" src="images/image-002.png">
 Adresy IP komputerów ustawione są statycznie. Komputery
 połączone ze switchem oraz router należą do jednego VLANu, w
 ramach którego się komunikują. Gdy adres docelowy pakietu jest
