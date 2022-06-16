@@ -5,9 +5,10 @@ Przykładowy projekt lokalnej sieci komputerowej. Symulacja została stworzona p
 
 ## 1.Topologia sieci
 <img align="left" src="images/image-000.png">
-
+<br clear="all" />
 
 ## 2.Użyte technologie i rozwiązania:
+<br/>
 
 
 
@@ -25,6 +26,7 @@ umożliwić komunikację, jak i sieci pośredniczące w komunikacji
 między nimi (podsieci, które stoją na drodze połączenia między
 którymiś z podsieci, które mają się komunikować).
 <br clear="all" />
+<br/>
 
 
 ### Pojedynczy VLAN
@@ -34,5 +36,6 @@ połączone ze switchem oraz router należą do jednego VLANu, w
 ramach którego się komunikują. Gdy adres docelowy pakietu jest
 adresem spoza sieci bramka sieciowa wskaże by wysłać go do
 routera, który następnie przekaże go dalej.
-
+<br clear="all" />
+<br/>
 
