@@ -1,0 +1,70 @@
+Current configuration : 1105 bytes
+!
+version 12.2
+no service timestamps log datetime msec
+no service timestamps debug datetime msec
+no service password-encryption
+!
+hostname router1
+!
+enable password admin
+!
+ip cef
+no ipv6 cef
+!
+username admin password 0 admin
+!
+ip ssh version 2
+ip domain-name admin
+!
+interface FastEthernet0/0
+ip address 192.168.0.1 255.255.255.0
+duplex auto
+speed auto
+!
+interface FastEthernet1/0
+ip address 200.4.1.1 255.255.255.0
+duplex auto
+speed auto
+!
+interface Serial2/0
+ip address 10.0.2.2 255.255.255.0
+!
+interface Serial3/0
+ip address 10.0.0.1 255.255.255.0
+!
+interface FastEthernet4/0
+no ip address
+shutdown
+!
+interface FastEthernet5/0
+no ip address
+shutdown
+!
+router rip
+network 8.0.0.0
+network 10.0.0.0
+network 11.0.0.0
+network 13.0.0.0
+network 14.0.0.0
+network 100.0.0.0
+network 192.168.0.0
+network 192.168.1.0
+network 192.169.0.0
+network 200.4.1.0
+!
+ip classless
+!
+ip flow-export version 9
+!
+line con 0
+!
+line aux 0
+!
+line vty 0 4
+login local
+transport input ssh
+line vty 5 15
+login local
+transport input ssh
+!
