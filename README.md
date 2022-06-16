@@ -25,7 +25,7 @@ umożliwić komunikację, jak i sieci pośredniczące w komunikacji
 między nimi (podsieci, które stoją na drodze połączenia między
 którymiś z podsieci, które mają się komunikować).
 <br/>
-
+<br/>
 
 
 ### Pojedynczy VLAN
