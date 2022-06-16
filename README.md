@@ -6,6 +6,8 @@ Przykładowy projekt lokalnej sieci komputerowej. Symulacja została stworzona p
 ## 1.Topologia sieci
 <img align="left" src="images/image-000.png">
 <br clear="all" />
+<br/>
+<br/>
 
 ## 2.Użyte technologie i rozwiązania:
 <br/>
