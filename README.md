@@ -92,5 +92,5 @@ Gdzie target to:
 
 <br/><hr style="border:2px solid gray">
 
-## 3. Konfiguracja urządzeń
-[I'm a relative reference to a repository file](konfiguracje)
+[## 3. Konfiguracja urządzeń](konfiguracje)
+
