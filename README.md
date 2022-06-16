@@ -25,6 +25,7 @@ przypisać tej usłudze wszystkie podsieci, którym chcemy
 umożliwić komunikację, jak i sieci pośredniczące w komunikacji
 między nimi (podsieci, które stoją na drodze połączenia między
 którymiś z podsieci, które mają się komunikować).
+Note the logic levels should be 3.3V or at least limited by a 1KOhm resistor according to the module manual, or you could damage the module.
 <br clear="all" />
 <br/>
 
