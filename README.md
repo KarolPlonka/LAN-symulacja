@@ -4,7 +4,7 @@ Przykładowy projekt lokalnej sieci komputerowej. Symulacja została stworzona p
 
 
 ## 1.Topologia sieci
-![Alt text](images/image-000.png)
+<img align="left" src="images/image-000.png">
 
 
 ## 2.Użyte technologie i rozwiązania:
@@ -12,7 +12,7 @@ Przykładowy projekt lokalnej sieci komputerowej. Symulacja została stworzona p
 
 
 ### Routery centralne + RIPv2
-![Alt text](images/image-001.png)
+<img align="left" src="images/image-001.png">
 Routery komunikują się między sobą w ramach czterech sieci.
 Każde połączenia dwóch routerów to osobna sieć, do której należy
 jeden z interfejsów routera. W tym przypadku routery połączone
@@ -28,7 +28,7 @@ którymiś z podsieci, które mają się komunikować).
 
 
 ### Pojedynczy VLAN
-<img align="right" src="images/image-002.png">
+<img align="left" src="images/image-002.png">
 Adresy IP komputerów ustawione są statycznie. Komputery
 połączone ze switchem oraz router należą do jednego VLANu, w
 ramach którego się komunikują. Gdy adres docelowy pakietu jest
