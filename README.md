@@ -10,8 +10,6 @@ Przykładowy projekt lokalnej sieci komputerowej. Symulacja została stworzona p
 <br/>
 
 ## 2.Użyte technologie i rozwiązania:
-<br/>
-
 
 
 ### Routery centralne + RIPv2
