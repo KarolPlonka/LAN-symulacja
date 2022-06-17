@@ -93,5 +93,16 @@ Gdzie target to:
 <br/><hr style="border:2px solid gray">
 
 ## [3. Konfiguracje urządzeń](konfiguracje)
-- [Router 1](konfiguracje/test.txt)
+- [Router 1](konfiguracje/router_1.txt)
+- [Router 2](konfiguracje/router_2.txt)
+- [Router 3](konfiguracje/router_3.txt)
+- [Router 4](konfiguracje/router_4.txt)
+- [Switch 1](konfiguracje/Switch 1.txt)
+- [Switch 1.5](konfiguracje/switch_1.5.txt)
+- [Switch 2](konfiguracje/switch_2.txt)
+- [Switch 3](konfiguracje/switch_3.txt)
+- [Switch 4](konfiguracje/switch_4.txt)
+- [Switch 5](konfiguracje/switch_5.txt)
+- [Switch 6](konfiguracje/switch_6.txt)
+- [Switch 7](konfiguracje/switch_7.txt)
 
