@@ -97,7 +97,7 @@ Gdzie target to:
 - [Router 2](konfiguracje/router_2.txt)
 - [Router 3](konfiguracje/router_3.txt)
 - [Router 4](konfiguracje/router_4.txt)
-- [Switch 1](konfiguracje/Switch 1.txt)
+- [Switch 1](konfiguracje/switch_1.txt)
 - [Switch 1.5](konfiguracje/switch_1.5.txt)
 - [Switch 2](konfiguracje/switch_2.txt)
 - [Switch 3](konfiguracje/switch_3.txt)
