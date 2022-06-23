@@ -46,7 +46,7 @@ Dany przykład działa podobnie jak powyższy z tą różnicą że do switcha po
 
 ### Trunking + wiele VLANów
 <img align="left" src="images/image-004.png">
-W obu switchach zostały stworzone dwa VLANy, które posiadają wydzielony interfejsy, do których następnie zostały podłączone odpowiednie komputery, adresy tych komputerów są przypisane statycznie. Switche zostały połączone ze sobą poprzez interfejsy, na których została zastosowane połączenie typu trunk. Na połączeniu switcha z routerem również zostało zastosowane połączenie typu trunk (na interfejsie switcha). Router natomiast na 	interfejsie łączącym go ze switchem posiada wydzielone wirtualne interfejsy, które odpowiadają za łączność każdej podsieci w widocznej części sieci.  
+W obu switchach zostały zdefiniowane dwa VLANy. Posiadają one wydzielone interfejsy, do których następnie zostały podłączone odpowiednie komputery. Adresy tych komputerów są przypisane statycznie. Switche zostały połączone ze sobą poprzez interfejsy, na których zostało zastosowane połączenie typu trunk. Na połączeniu switcha z routerem również zostało zastosowane połączenie typu trunk (wyłącznie od strony switcha). Router natomiast na interfejsie łączącym go ze switchem posiada wydzielone wirtualne interfejsy, które umożliwiają działanie wielu VLANów w danej konfiguracji. 
 <br clear="all" />
 
 
