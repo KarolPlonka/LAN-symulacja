@@ -19,7 +19,7 @@ Routery komunikują się między sobą w ramach czterech sieci. Każde połącze
 <br/>
 <br/>
 
-We wszystkich routerach aktywna jest usługa RIPv2, która wyznacza ścieżkę pakietom przesyłanym pomiędzy różnymi sieciami, do poprawnego działania tej usługi należy w każdym routerze przypisać tej usłudze wszystkie podsieci, którym chcemy umożliwić komunikację, jak i sieci pośredniczące w komunikacji między nimi (podsieci, które stoją na drodze połączenia między którymiś z podsieci, które mają się komunikować).
+We wszystkich routerach aktywna jest usługa RIPv2, która wyznacza ścieżkę pakietom przesyłanym pomiędzy wybranymi sieciami, do poprawnego działania tej usługi należy w każdym routerze przypisać tej usłudze wszystkie podsieci, którym chcemy umożliwić komunikację, jak i sieci pośredniczące w komunikacji między nimi. 
 <br clear="all" />
 
 
