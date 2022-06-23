@@ -37,7 +37,7 @@ Adresy IP komputerów ustawione są statycznie. Komputery połączone ze switche
 
 ### Serwer DHCP
 <img align="left" src="images/image-003.png">
-Dany przykład podobnie jak powyższy z tą różnicą że do switcha podłączony jest serwer DHCP. Serwer DHCP posiada statyczne IP i przypisuje adresy urządzeniom w sieci, adresy pula adresów wyklucza 10 pierwszych adresy, które może użyć na podłączenie ewentualnych urządzeń preferujących statyczny adres IP.
+Dany przykład działa podobnie jak powyższy z tą różnicą że do switcha podłączony został serwer DHCP. Serwer DHCP posiada statyczne IP i odpowiada za przypisywanie adresów IP urządzeniom w sieci. Pula adresów wyklucza 10 pierwszych adresów, które można wykorzystać na podłączenie ewentualnych urządzeń preferujących statyczne adres IP.
 <br clear="all" />
 
 
