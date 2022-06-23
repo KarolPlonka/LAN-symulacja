@@ -28,7 +28,7 @@ We wszystkich routerach aktywna jest usługa RIPv2, która wyznacza ścieżkę p
 
 ### Pojedynczy VLAN
 <img align="left" src="images/image-002.png">
-Adresy IP komputerów ustawione są statycznie. Komputery połączone ze switchem oraz router należą do jednego VLANu, w ramach którego się komunikują. Gdy adres docelowy pakietu jest adresem spoza sieci bramka sieciowa wskaże by wysłać go do routera, który następnie przekaże go dalej.
+Adresy IP komputerów ustawione są statycznie. Komputery połączone ze switchem oraz dany interfejs routera należą do jednego VLANu, w ramach którego się komunikują. Gdy adres docelowy pakietu jest adresem spoza sieci bramka sieciowa wskaże by wysłać go do routera, który następnie przekaże go dalej.
 <br clear="all" />
 
 
