@@ -85,7 +85,7 @@ Aby połączyć się z wybranym urządzeniem należy użyć polecenia:
 
 Gdzie target to:
 - w przypadku łączenia się z switchem - adres IP VLANu switcha, w którym znajduje się urządzenia klienta.
-- w przypadku się z routerem - adres IP interfejsu lub wirtualnego interfejsu routera, który należy do sieci, w której znajduje się urządzenia klienta.
+- w przypadku łączenia się z routerem - adres IP interfejsu lub wirtualnego interfejsu routera, który należy do sieci, w której znajduje się urządzenia klienta.
 
 <br clear="all" />
 
